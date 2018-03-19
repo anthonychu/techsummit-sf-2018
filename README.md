@@ -1,5 +1,12 @@
 # Tech Summit San Francisco 2018
 
+## Contact me
+
+* anthony.chu@microsoft.com
+* [@nthonyChu](https://twitter.com/nthonyChu)
+
+[**Please submit your evaluations**](aka.ms/ts/san-francisco)
+
 ## ASP.NET Core 2 on Azure - Resources
 
 * [Cloud Developer Advocates](https://developer.microsoft.com/en-us/advocates/?WT.mc_id=techsummit-links-antchu)
@@ -12,3 +19,4 @@
 * [Application Insights](https://docs.microsoft.com/azure/application-insights/?WT.mc_id=techsummit-links-antchu)
 * [ASP.NET Core Key Vault Hands-on Lab](https://github.com/anthonychu/aspnetcore-keyvault-hol)
 * [NotBacon](https://docs.microsoft.com/sandbox/demos/notbacon?WT.mc_id=techsummit-links-antchu)
+* [Tech Summit Community](http://techcommunity.microsoft.com)
