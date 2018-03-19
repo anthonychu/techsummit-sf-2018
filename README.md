@@ -5,7 +5,7 @@
 * anthony.chu@microsoft.com
 * [@nthonyChu](https://twitter.com/nthonyChu)
 
-[**Please submit your evaluations**](aka.ms/ts/san-francisco)
+[**Please submit your evaluations**](http://aka.ms/ts/san-francisco)
 
 ## ASP.NET Core 2 on Azure - Resources
 
