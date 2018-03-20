@@ -7,7 +7,7 @@
 
 [**Please submit your evaluations**](http://aka.ms/ts/san-francisco)
 
-## Azure Developer Tour
+## Azure Developer Tour - San Francisco - April 12
 
 Join us at the Azure Developer Tour coming to San Francisco on April 12!
 
